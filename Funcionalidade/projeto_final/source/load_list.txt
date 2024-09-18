@@ -1,0 +1,9 @@
+additions/
+changes/
+projeto_final
+projeto_final_2
+projeto_final_framework
+projeto_final_framework_2
+projeto_final_plugin
+projeto_final_plugin_2
+glue/

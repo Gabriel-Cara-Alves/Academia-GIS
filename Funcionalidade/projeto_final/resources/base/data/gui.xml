@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<gui>
+	<statusbar name="default">
+		<pane id="info" style="innie" width="80" springy="false"/>
+		<pane id="status" style="innie" width="20" springy="true"/>
+	</statusbar>
+
+	<work_area>
+		<plugin plugin_name="projeto_final"/>
+	</work_area>
+</gui>
